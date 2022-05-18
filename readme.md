@@ -1,4 +1,4 @@
-## Hola, Soy Thiago Mowszet ™
+## Hola, Soy Thiago Mowszet 👋
 <div display: "flex">
   <a href="https://github.com/thiagomowszet">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thiagomowszet&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
