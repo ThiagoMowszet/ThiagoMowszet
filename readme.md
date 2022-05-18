@@ -1,4 +1,5 @@
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+## Hola, Soy Thiago Mowszet ™
+<div>
 <div align="center">
   <a href="https://github.com/thiagomowszet">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagomowszet&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -10,8 +11,8 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+  </div> 
   
-  ##
  
 <div> 
 </a>
