@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Thiago Mowszet</h1>
-<h3 align="center">Software Developer</h3>
+<h1 align="center"> Hi 👋 <br>
+ I'm Thiago Mowszet</h1>
+<h3 align="left">Software Developer</h3>
 
 <p>
 
