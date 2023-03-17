@@ -52,6 +52,3 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomowsze
 <img src="https://github-readme-stats.vercel.app/api?username=thiagomowszet&layout=compact&theme=transparent"/></p>
 </p>
 </details>
-
-
-<div align="right">
