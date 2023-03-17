@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thiago Mowszet</h1>
 <h3 align="center">Software Developer</h3>
 
-(https://streak-stats.demolab.com?user=ThiagoMowszet&theme=transparent&border_radius=10)](https://git.io/streak-stats)
-
-
 <p>
 
   I use GitHub for share my passion to code, contribute to the community and open source projects.
