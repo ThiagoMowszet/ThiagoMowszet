@@ -3,11 +3,9 @@
 <h3 align="left">Software Developer</h3>
 
 <p>
-
-  I use GitHub for share my passion to code, contribute to the community and open source projects.
-
-  I've been working as a developer since 2020. I love software, it's one of my passions.
-
+I use GitHub to share my passion to code and contribute to the community and open-source projects.
+ 
+I've been working as a developer since 2020. I love software, it's one of my passions.
 </p>
 
 
