@@ -5,7 +5,7 @@
 <p>
 I'm a dedicated developer with a passion for coding and a commitment to contributing to the open-source community. 
  
-Since 2020, I've been actively involved in crafting software solutions and sharing my knowledge on GitHub. I believe in the power of collaboration and continuous learning.
+Since 2019, I've been actively involved in crafting software solutions and sharing my knowledge on GitHub. I believe in the power of collaboration and continuous learning.
 </p>
 
 
